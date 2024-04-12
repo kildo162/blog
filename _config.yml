@@ -22,8 +22,8 @@ title: Blog
 email: khanhnd162@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog. I write about my life, my work, and my thoughts.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://kildo162.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.khanhnd.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 
 github_username:  kildo162
