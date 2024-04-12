@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Tôi là Khánh và DevMặn là biệt danh tôi tự nhận cho chính mình. Tôi không phải là một lập trình viên giỏi, nhưng tôi luôn cố gắng học hỏi và phát triển bản thân mình. Tôi tin rằng kiến thức không bao giờ là đủ, và tôi sẽ không ngừng chia sẻ những gì mình biết với mọi người. Với sự đam mê lập trình và công nghệ. Tôi tạo ra trang web này để chia sẻ kiến thức và kinh nghiệm của mình với mọi người. Hy vọng rằng bạn sẽ tìm thấy những thông tin hữu ích trên trang web này. Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, hãy liên hệ với tôi qua email: <khanhnd162@gmail.com>.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
