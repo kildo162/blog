@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://blog.khanhnd.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-
+permalink: pretty
 github_username:  kildo162
 
 # Build settings
@@ -45,6 +45,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache
   - jekyll-asset-path-plugin
+  - jekyll-webp
 
 
 # Exclude from processing.
@@ -66,3 +67,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-
+
+# Pagination
+paginate: 5

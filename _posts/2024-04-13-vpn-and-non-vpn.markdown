@@ -3,6 +3,7 @@ layout: post
 title:  "VPN and Non VPN"
 date:   2024-04-13 07:00:33 +0700
 categories: network
+toc: true
 ---
 
 VPN đơn giản hoạt động như thế nào?
@@ -19,7 +20,7 @@ Các dịch vụ VPN trả phí: NordVPN, ExpressVPN, CyberGhost, ...
 
 VPN và không VPN khác nhau như thế nào?
 
-![alt text](assets/img/vpn-03.webp)
+![alt text](assets/images/vpn-03.webp)
 
 Hình ảnh đã giai thích rõ sự khác biệt giữa VPN và không VPN. Khi bạn kết nối vào một VPN, dữ liệu của bạn sẽ được mã hóa và gói tin dữ liệu sẽ được gửi qua một kênh riêng tư, an toàn giữa thiết bị của bạn và máy chủ VPN. Máy chủ VPN sẽ giải mã dữ liệu và gửi nó đến đích cuối cùng.
 
