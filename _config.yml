@@ -40,9 +40,12 @@ plugins:
   - jekyll-default-layout
   - jekyll-avatar
   - jekyll-mentions
+  - jekyll-toc
   - jekyll-remote-theme
   - jekyll-redirect-from
   - jekyll-include-cache
+  - jekyll-asset-path-plugin
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
